@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Super Growtopia Maker", "SuperGrowtopiaMaker\SuperGrowtopiaMaker\Super Growtopia Maker.csproj", "{8F2562F3-3E64-47D4-BE9B-D9C54C70A106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperGrowtopiaMakerContent", "SuperGrowtopiaMaker\SuperGrowtopiaMakerContent\SuperGrowtopiaMakerContent.contentproj", "{575B8955-4678-4488-9663-71B93A3CE0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2562F3-3E64-47D4-BE9B-D9C54C70A106}.Debug|x86.ActiveCfg = Debug|x86
+		{8F2562F3-3E64-47D4-BE9B-D9C54C70A106}.Debug|x86.Build.0 = Debug|x86
+		{8F2562F3-3E64-47D4-BE9B-D9C54C70A106}.Release|x86.ActiveCfg = Release|x86
+		{8F2562F3-3E64-47D4-BE9B-D9C54C70A106}.Release|x86.Build.0 = Release|x86
+		{575B8955-4678-4488-9663-71B93A3CE0CE}.Debug|x86.ActiveCfg = Debug|x86
+		{575B8955-4678-4488-9663-71B93A3CE0CE}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

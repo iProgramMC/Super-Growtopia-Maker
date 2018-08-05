@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>leveljario.png</Source>
+      <Name>leveljario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\leveljario.xnb</Output>
+      <Time>2018-07-11T20:04:58.5620426+03:00</Time>
+    </Item>
+    <Item>
+      <Source>minijario.png</Source>
+      <Name>minijario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\minijario.xnb</Output>
+      <Time>2018-07-26T13:09:22.7459675+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page1.png</Source>
+      <Name>tiles_page1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page1.xnb</Output>
+      <Time>2018-07-31T16:54:56.2598516+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page10.png</Source>
+      <Name>tiles_page10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page10.xnb</Output>
+      <Time>2018-07-13T15:57:01.1218965+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page2.png</Source>
+      <Name>tiles_page2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page2.xnb</Output>
+      <Time>2018-07-11T20:37:00.3494223+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page3.png</Source>
+      <Name>tiles_page3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page3.xnb</Output>
+      <Time>2018-07-11T20:37:00.3026222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page4.png</Source>
+      <Name>tiles_page4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page4.xnb</Output>
+      <Time>2018-07-11T20:37:00.3026222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page5.png</Source>
+      <Name>tiles_page5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page5.xnb</Output>
+      <Time>2018-07-11T20:37:00.3026222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page6.png</Source>
+      <Name>tiles_page6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page6.xnb</Output>
+      <Time>2018-07-11T20:37:00.3182222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page7.png</Source>
+      <Name>tiles_page7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page7.xnb</Output>
+      <Time>2018-07-11T20:37:00.3182222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page8.png</Source>
+      <Name>tiles_page8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page8.xnb</Output>
+      <Time>2018-07-11T20:37:00.3182222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page9.png</Source>
+      <Name>tiles_page9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page9.xnb</Output>
+      <Time>2018-07-11T20:37:00.3338222+03:00</Time>
+    </Item>
+    <Item>
+      <Source>create_button.png</Source>
+      <Name>create_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\create_button.xnb</Output>
+      <Time>2018-07-12T11:34:22.9939228+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maker_ui_top.png</Source>
+      <Name>maker_ui_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\maker_ui_top.xnb</Output>
+      <Time>2018-07-14T07:40:31.6922085+03:00</Time>
+    </Item>
+    <Item>
+      <Source>play_button.png</Source>
+      <Name>play_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\play_button.xnb</Output>
+      <Time>2018-07-12T11:34:31.7288531+03:00</Time>
+    </Item>
+    <Item>
+      <Source>checkmark.png</Source>
+      <Name>checkmark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\checkmark.xnb</Output>
+      <Time>2018-07-12T20:56:25.9480118+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles_page11.png</Source>
+      <Name>tiles_page11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles_page11.xnb</Output>
+      <Time>2018-07-13T15:56:08.7506299+03:00</Time>
+    </Item>
+    <Item>
+      <Source>hide_show_ui_button.png</Source>
+      <Name>hide_show_ui_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\hide_show_ui_button.xnb</Output>
+      <Time>2018-07-14T07:27:42.7283947+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_arm.png</Source>
+      <Name>Player\player_arm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_arm.xnb</Output>
+      <Time>2018-07-21T10:55:15.2450382+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_arm_thumbsup.png</Source>
+      <Name>Player\player_arm_thumbsup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_arm_thumbsup.xnb</Output>
+      <Time>2018-07-21T10:55:15.2460383+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_artifact.png</Source>
+      <Name>Player\player_artifact</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_artifact.xnb</Output>
+      <Time>2018-07-21T10:55:15.206036+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_back.png</Source>
+      <Name>Player\player_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_back.xnb</Output>
+      <Time>2018-07-21T10:55:15.207036+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_back2.png</Source>
+      <Name>Player\player_back2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_back2.xnb</Output>
+      <Time>2018-07-21T10:55:15.2260371+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_chestitem.png</Source>
+      <Name>Player\player_chestitem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_chestitem.xnb</Output>
+      <Time>2018-07-21T10:55:15.2270372+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_chestitem2.png</Source>
+      <Name>Player\player_chestitem2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_chestitem2.xnb</Output>
+      <Time>2018-07-21T10:55:15.2290373+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_chestitem2_icon.png</Source>
+      <Name>Player\player_chestitem2_icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_chestitem2_icon.xnb</Output>
+      <Time>2018-07-21T10:55:15.2300374+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_chestitem_icon.png</Source>
+      <Name>Player\player_chestitem_icon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_chestitem_icon.xnb</Output>
+      <Time>2018-07-21T10:55:15.2280372+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_extraleg.png</Source>
+      <Name>Player\player_extraleg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_extraleg.xnb</Output>
+      <Time>2018-07-21T10:55:15.2310374+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_eyes.png</Source>
+      <Name>Player\player_eyes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_eyes.xnb</Output>
+      <Time>2018-07-21T10:55:15.2320375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_face.png</Source>
+      <Name>Player\player_face</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_face.xnb</Output>
+      <Time>2018-07-21T10:55:15.2330375+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_faceitem.png</Source>
+      <Name>Player\player_faceitem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_faceitem.xnb</Output>
+      <Time>2018-07-21T10:55:15.2340376+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_feet.png</Source>
+      <Name>Player\player_feet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_feet.xnb</Output>
+      <Time>2018-07-21T10:55:15.2350376+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_hair.png</Source>
+      <Name>Player\player_hair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_hair.xnb</Output>
+      <Time>2018-07-21T10:55:15.2360377+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_handitem.png</Source>
+      <Name>Player\player_handitem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_handitem.xnb</Output>
+      <Time>2018-07-21T10:55:15.2370378+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_horsepants.png</Source>
+      <Name>Player\player_horsepants</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_horsepants.xnb</Output>
+      <Time>2018-07-21T10:55:15.2380378+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_pants.png</Source>
+      <Name>Player\player_pants</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_pants.xnb</Output>
+      <Time>2018-07-21T10:55:15.2400379+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_puncharm.png</Source>
+      <Name>Player\player_puncharm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_puncharm.xnb</Output>
+      <Time>2018-07-21T10:55:15.241038+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_shirt.png</Source>
+      <Name>Player\player_shirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_shirt.xnb</Output>
+      <Time>2018-07-21T10:55:15.242038+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_sit.png</Source>
+      <Name>Player\player_sit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_sit.xnb</Output>
+      <Time>2018-07-21T10:55:15.2430381+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player\player_sleeve.png</Source>
+      <Name>Player\player_sleeve</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\documents\visual studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Player\player_sleeve.xnb</Output>
+      <Time>2018-07-21T10:55:15.2440382+03:00</Time>
+    </Item>
+    <Item>
+      <Source>particles.png</Source>
+      <Name>particles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\particles.xnb</Output>
+      <Time>2018-07-26T13:05:48.7587282+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hud.spritefont</Source>
+      <Name>Fonts\hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Fonts\hud.xnb</Output>
+      <Time>2018-07-12T15:42:59.9260106+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hud2.spritefont</Source>
+      <Name>Fonts\hud2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Fonts\hud2.xnb</Output>
+      <Time>2018-07-12T21:26:42.2474658+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\hudss.spritefont</Source>
+      <Name>Fonts\hudss</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\Fonts\hudss.xnb</Output>
+      <Time>2018-07-26T21:58:43.7015685+03:00</Time>
+    </Item>
+    <Item>
+      <Source>minijario_ss.png</Source>
+      <Name>minijario_ss</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\minijario_ss.xnb</Output>
+      <Time>2018-07-26T21:54:47.5640622+03:00</Time>
+    </Item>
+    <Item>
+      <Source>tiles.png</Source>
+      <Name>tiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\tiles.xnb</Output>
+      <Time>2018-08-01T20:59:42.9071969+03:00</Time>
+    </Item>
+    <Item>
+      <Source>next.png</Source>
+      <Name>next</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\next.xnb</Output>
+      <Time>2018-07-31T17:49:57.9056949+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMakerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMakerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Harhata\Documents\Visual Studio 2010\Projects\SuperGrowtopiaMaker\SuperGrowtopiaMaker\SuperGrowtopiaMaker\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-08-21T11:56:31.7002194+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
